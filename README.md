@@ -12,6 +12,9 @@ https://github.com/Nangunurijayasurya/AIML_LAB/blob/main/AIML%20LAB-06.ipynb
 
 https://github.com/Nangunurijayasurya/AIML_LAB/blob/main/AIML%20LAB-07.ipynb
 
+https://github.com/Nangunurijayasurya/AIML_LAB/blob/main/AIML%20LAB-08%20.ipynb
+
+
 
 
 
