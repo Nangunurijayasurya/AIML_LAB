@@ -17,11 +17,3 @@ https://github.com/Nangunurijayasurya/AIML_LAB/blob/main/AIML%20LAB-08%20.ipynb
 https://github.com/Nangunurijayasurya/AIML_LAB/blob/main/LAB_009.ipynb
 
 https://github.com/Nangunurijayasurya/AIML_LAB/blob/main/LAB_010.ipynb
-
-
-
-
-
-
-
-
